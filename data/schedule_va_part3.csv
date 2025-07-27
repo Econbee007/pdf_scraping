@@ -1,0 +1,89 @@
+Line No.,Cost Center Description,10/01/2012,TO
+1,Medical & Surgical Acute,131,1
+2,Pediatric Acute,2,
+3,Obstetric Acute,2,3
+4,Psychiatric Acute,370,4
+5,Ventilator Unit,5,
+6,Skilled Nursing Facilities,6,
+7,Pediatric Psych,7,7
+8,Other Acute (Specify),8,
+9,Other Acute (Specify),9,
+10,Subtotal (Lines 1-9),510,10
+11,Med/Surg Intensive Care,24,11
+12,Coronary Intensive Care,12,
+13,Neonatal Intensive Care,13,
+14,Other ICU (Specify),14,
+15,Other ICU (Specify),15,
+16,Other ICU (Specify),16,
+17,Other ICU (Specify),17,
+18,Other ICU (Specify),18,
+19,Subtotal (Lines 11-18),24,19
+20,Newborn Nursery,20,
+20.01,Special Care Nursery,20.01,
+21,Chronic / Rehabilitation,21,
+22,Total Patient Days (L10+L19),534,22
+23,Admin necessary Days,23,
+24,Admissions,116,24
+25,Discharges,117,25
+26,Emergency Services,488,26
+27,Clinic / Ambulatory Services,21,27
+27.01,Clinic / Ambulatory Svcs (Speci,21,27.01
+28,Satellite Clinic Services,28,
+29,Ambulatory Surgical Services,24,29
+30,Ambulatory Renal Dialysis,30,
+31,Home Dialysis Services,31,
+32,Psychiatry,32,
+33,Home Health Services,33,
+34,Observation Beds,16,34
+35,Private Referrals,35,
+36,Hospital Licensed Health Center,36,
+37,Other Ambulatory (Specify),37,
+38,Other Ambulatory (Specify),38,
+39,Total Outpatient (Lines 26-38,549,39
+40,Inpatient Routine,"545,440",40
+41,Inpatient Ancillary,"379,408",41
+42,Outpatient Routine,"460,043",42
+43,Outpatient Ancillary,"384,067",43
+44,Total Gross Patient Svc Reven,"1,768,958",44
+45,Contr Adj & Provision for Bad D,"75,314",45
+46,GL Pat,"1,834,203",46
+47,Employee,47,
+48,Courtesy,48,
+49,Other Free Care,49,
+50,Total Free Care,"1,834,203",50
+51,Total Deductions,"1,909,517",51
+52,Gross Receipts From HSN,"1,009,906",52
+52.01,Total Net Patient Svc Revenue,"869,347",52.01
+52.02,Total Premium Revenue,52.02,
+53,Provision for Bad Debts,53,
+54,Bad Debt Write-Off,54,
+55,Inpatient Routine,"545,440",55
+56,Inpatient Ancillary,"379,408",56
+57,Total Inpatient Svc Revenue,"924,848",57
+58,Contr Adj & Provision for Bad D,"69,163",58
+59,General Ledger Patient,"1,035,774",59
+60,Employee,60,
+61,Courtesy,61,
+62,Other Free Care,62,
+63,Total Free Care,"1,035,774",63
+64,Total Deductions,"1,104,937",64
+65,Gross Receipts From HSN,"570,293",65
+65.01,Net Inpatient Svc Revenue,"390,204",65.01
+65.02,Inpatient Premium Revenue,65.02,
+66,Provision for Bad Debts,66,
+67,Bad Debt Write-Off,67,
+68,Outpatient Routine,"460,043",68
+69,Outpatient Ancillary,"384,067",69
+70,Total Outpatient Svc Revenue,"844,110",70
+71,Contr Adj & Provision for Bad D,"6,151",71
+72,GL Pat,"798,429",72
+73,Employee,73,
+74,Courtesy,74,
+75,Other Free Care,75,
+76,Total Free Care,"798,429",76
+77,Total Deductions,"804,580",77
+78,Gross Receipts From HSN,"439,613",78
+78.01,Net Outpatient Svc Revenue,"479,143",78.01
+78.02,Outpatient Premium Revenue,78.02,
+79,Provision for Bad Debts,79,
+80,Bad Debt Write-Off,80,

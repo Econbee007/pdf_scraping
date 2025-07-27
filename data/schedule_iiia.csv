@@ -1,0 +1,24 @@
+Line No.,Cost Center Description,-,RECONCILIATION
+1,Medical & Surgical Acute,"16,460","16,460"
+2,Pediatric Acute,108,108
+3,Obstetric Acute,"1,952","1,952"
+4,Psychiatric Acute,"5,977","5,977"
+5,Ventilator Unit,,
+6,Skilled Nursing Facilities,,
+7,Pediatric Psych,"3,726","3,726"
+8,Other Acute (Specify),,
+9,Other Acute (Specify),,
+10,Subtotal (Lines 1-9),"28,223","28,223"
+11,Med/Surg Intensive Care,"1,893","1,893"
+12,Coronary Intensive Care,,
+13,Neonatal Intensive Care,,
+14,Other ICU (Specify),,
+15,Other ICU (Specify),,
+16,Other ICU (Specify),,
+17,Other ICU (Specify),,
+18,Other ICU (Specify),,
+19,Subtotal (Lines 11-18),"1,893","1,893"
+20,Newborn Nursery,"1,572","1,572"
+20.01,Special Care Nursery,429,429
+21,Chronic / Rehabilitation,,
+22,Subtotal (Lines 10+19+20+21),"32,117","32,117"

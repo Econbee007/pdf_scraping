@@ -1,0 +1,89 @@
+Line No.,Cost Center Description,10/01/2012,TO,09/30/2013,State,of,Massachusetts,-
+1,Medical & Surgical Acute,"16,460","1,697","10,304",352,485,39,1
+2,Pediatric Acute,108,11,13,2,,,
+3,Obstetric Acute,"1,952",21,296,229,3,,
+4,Psychiatric Acute,"5,977",66,"1,956","1,732",83,4,
+5,Ventilator Unit,5,,,,,,
+6,Skilled Nursing Facilities,6,,,,,,
+7,Pediatric Psych,"3,726","1,321",27,7,,,
+8,Other Acute (Specify),8,,,,,,
+9,Other Acute (Specify),9,,,,,,
+10,Subtotal (Lines 1-9),"28,223","1,763","12,281","3,712",837,39,10
+11,Med/Surg Intensive Care,"1,893",179,"1,241",39,64,1,11
+12,Coronary Intensive Care,12,,,,,,
+13,Neonatal Intensive Care,13,,,,,,
+14,Other ICU (Specify),14,,,,,,
+15,Other ICU (Specify),15,,,,,,
+16,Other ICU (Specify),16,,,,,,
+17,Other ICU (Specify),17,,,,,,
+18,Other ICU (Specify),18,,,,,,
+19,Subtotal (Lines 11-18),"1,893",179,"1,241",39,64,1,19
+20,Newborn Nursery,"1,572",226,205,20,,,
+20.01,Special Care Nursery,429,68,128,20.01,,,
+21,Chronic / Rehabilitation,21,,,,,,
+22,Total Patient Days (L10+L19),"32,117","1,942","13,522","4,045","1,234",40,22
+23,Admin necessary Days,5,5,23,,,,
+24,Admissions,"7,643",442,"3,160",632,344,11,24
+25,Discharges,"7,638",441,"3,168",633,346,11,25
+26,Emergency Services,"31,627","1,188","8,421","2,342","2,484",724,26
+27,Clinic / Ambulatory Services,"14,734",658,"4,467",314,453,819,27
+27.01,Clinic / Ambulatory Svcs (Speci,"14,734",658,"4,467",314,453,819,27.01
+28,Satellite Clinic Services,28,,,,,,
+29,Ambulatory Surgical Services,"6,467",330,"2,363",271,166,6,29
+30,Ambulatory Renal Dialysis,30,,,,,,
+31,Home Dialysis Services,31,,,,,,
+32,Psychiatry,137,23,32,,,,
+33,Home Health Services,33,,,,,,
+34,Observation Beds,"2,351",198,"1,063",73,111,9,34
+35,Private Referrals,35,,,,,,
+36,Hospital Licensed Health Center,36,,,,,,
+37,Other Ambulatory (Specify),37,,,,,,
+38,Other Ambulatory (Specify),38,,,,,,
+39,Total Outpatient (Lines 26-38,"55,316","2,374","16,314","3,023","3,214","1,558",39
+40,Inpatient Routine,"33,095,343","2,076,114","14,777,252","3,987,330","1,187,044","27,098",40
+41,Inpatient Ancillary,"44,529,260","3,664,756","23,476,171","1,952,379","1,655,189","178,884",41
+42,Outpatient Routine,"42,944,424","2,394,348","15,122,356","2,292,791","2,437,620","610,143",42
+43,Outpatient Ancillary,"104,985,940","4,888,140","32,461,406","4,558,614","4,359,096","1,244,407",43
+44,Total Gross Patient Svc Reven,"225,554,967","13,023,358","85,837,185","12,791,114","9,638,949","2,060,532",44
+45,Contr Adj & Provision for Bad D,"117,340,214","7,259,012","46,400,678","6,754,815","5,988,410","1,283,348",45
+46,GL Pat,"1,834,203",46,,,,,
+47,Employee,47,,,,,,
+48,Courtesy,"297,544",48,,,,,
+49,Other Free Care,"25,944",49,,,,,
+50,Total Free Care,"2,157,691",50,,,,,
+51,Total Deductions,"119,497,905","7,259,012","46,400,678","6,754,815","5,988,410","1,283,348",51
+52,Gross Receipts From HSN,"1,009,906",52,,,,,
+52.01,Total Net Patient Svc Revenue,"107,066,968","5,764,346","39,436,507","6,036,299","3,650,539","777,184",52.01
+52.02,Total Premium Revenue,52.02,,,,,,
+53,Provision for Bad Debts,"5,951,830","343,654","2,265,028","337,525","254,348","54,372",53
+54,Bad Debt Write-Off,"6,164,854","835,377",54,,,,
+55,Inpatient Routine,"33,095,343","2,076,114","14,777,252","3,987,330","1,187,044","27,098",55
+56,Inpatient Ancillary,"44,529,260","3,664,756","23,476,171","1,952,379","1,655,189","178,884",56
+57,Total Inpatient Svc Revenue,"77,624,603","5,740,870","38,253,423","5,939,709","2,842,233","205,982",57
+58,Contr Adj & Provision for Bad D,"30,006,350","2,732,675","17,075,445","2,055,589","721,002",58,
+59,General Ledger Patient,"1,035,774",59,,,,,
+60,Employee,60,,,,,,
+61,Courtesy,"22,144",61,,,,,
+62,Other Free Care,"25,944",62,,,,,
+63,Total Free Care,"1,083,862",63,,,,,
+64,Total Deductions,"31,090,212","2,732,675","17,075,445","2,055,589","721,002",64,
+65,Gross Receipts From HSN,"570,293",65,,,,,
+65.01,Net Inpatient Svc Revenue,"47,104,684","3,008,195","21,177,978","3,884,120","2,121,231",65.01,
+65.02,Inpatient Premium Revenue,65.02,,,,,,
+66,Provision for Bad Debts,"2,048,319","151,487","1,009,412","156,734","74,999",66,
+67,Bad Debt Write-Off,"1,136,545","519,237",67,,,,
+68,Outpatient Routine,"42,944,424","2,394,348","15,122,356","2,292,791","2,437,620","610,143",68
+69,Outpatient Ancillary,"104,985,940","4,888,140","32,461,406","4,558,614","4,359,096","1,244,407",69
+70,Total Outpatient Svc Revenue,"147,930,364","7,282,488","47,583,762","6,851,405","6,796,716","1,854,550",70
+71,Contr Adj & Provision for Bad D,"87,333,864","4,526,337","29,325,233","4,699,226","5,267,408",71,
+72,GL Pat,"798,429",72,,,,,
+73,Employee,73,,,,,,
+74,Courtesy,"275,400",74,,,,,
+75,Other Free Care,75,,,,,,
+76,Total Free Care,"1,073,829",76,,,,,
+77,Total Deductions,"88,407,693","4,526,337","29,325,233","4,699,226","5,267,408",77,
+78,Gross Receipts From HSN,"439,613",78,,,,,
+78.01,Net Outpatient Svc Revenue,"59,962,284","2,756,151","18,258,529","2,152,179","1,529,308",78.01,
+78.02,Outpatient Premium Revenue,78.02,,,,,,
+79,Provision for Bad Debts,"3,903,511","192,167","1,255,616","180,791","179,349",79,
+80,Bad Debt Write-Off,"5,028,309","316,140",80,,,,

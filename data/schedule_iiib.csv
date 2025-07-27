@@ -1,0 +1,11 @@
+Line No.,Cost Center Description,Both,Distinct,and,Non-Distinct,(Complete,both
+1,Total Observation Bed Hours,"56,405",,,,,
+1,Total Observation Bed Hours,"56,405",,,,,
+2,Divided by,24,Hours,24,,,
+3,Equivalent Observation Bed Days,"2,350",,,,,
+4,"Schedule III, Column","6,",Line,10,"28,223",,
+5,"Less: Schedule III, Column","6,",Line,6,,,
+6,"Acute Inpatient Days, Excluding SNF Days","28,223",,,,,
+7,Equivalent Observation Bed Days from Line,3,"2,350",0.077,,,
+8,Acute Inpatient Days excluding SNF Days from Line,6,"28,223",0.923,,,
+9,Total (Line,7,+,Line,8),"30,573",1.000
